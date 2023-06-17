@@ -1,0 +1,16 @@
+{
+  "name": "to-do-list-with-yargs",
+  "version": "1.0.0",
+  "description": "add, remove, read and list - to do list app with yargs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "yargs": "^17.7.2"
+  }
+}
